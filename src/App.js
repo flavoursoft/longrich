@@ -1,24 +1,24 @@
 import React from 'react';
-import logo from './logo.svg';
+import {Link, NavLink,  Switch, Redirect, BrowserRouter as Router, Route } from 'react-router-dom';
 import './App.css';
+import Button from '@material-ui/core/Button';
+import Appbar from './Appbar';
+import Details from './Details';
 
 function App() {
+  //const match = props.match
+ 
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+    <div>
+    
+       
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+         <Appbar></Appbar>
+         <Router>
+          <Route exact path="/longrich/:id" component={Details} />
+         </Router>
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+        
     </div>
   );
 }
