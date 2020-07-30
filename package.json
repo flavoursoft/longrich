@@ -2,7 +2,7 @@
   "name": "longrich_1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://carlnjoku.github.io/longrich/",
+  "homepage": "https://flavoursoft.github.io/longrich/",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",

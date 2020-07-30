@@ -65,12 +65,13 @@ export default class Details extends Component {
     render() {
         const classes = this.props;
         console.log(this.props)
+        const id = this.props.match.params.id
         return (
             <div>
                 <Grid container spacing={0}>
                     <Grid item xs={12}>
                         <div style ={styles}>
-                        <Typography style={{textAlign:'center', paddingTop:30}} variant="h6" > {this.state.firstname} {this.state.lastname}</Typography>
+        <Typography style={{textAlign:'center', paddingTop:30}} variant="h6" > {this.state.firstname} {this.state.lastname} {id}</Typography>
                         <Typography style={{textAlign:'center'}} variant="body1" color="inherit">Stockist </Typography>
                         </div>
                     </Grid>
