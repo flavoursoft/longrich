@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/longrich/static/css/main.5f361e03.chunk.css",
-    "main.js": "/longrich/static/js/main.571a42f4.chunk.js",
-    "main.js.map": "/longrich/static/js/main.571a42f4.chunk.js.map",
+    "main.js": "/longrich/static/js/main.c11a6ec8.chunk.js",
+    "main.js.map": "/longrich/static/js/main.c11a6ec8.chunk.js.map",
     "runtime-main.js": "/longrich/static/js/runtime-main.10c98aeb.js",
     "runtime-main.js.map": "/longrich/static/js/runtime-main.10c98aeb.js.map",
     "static/js/2.bb226c0f.chunk.js": "/longrich/static/js/2.bb226c0f.chunk.js",
     "static/js/2.bb226c0f.chunk.js.map": "/longrich/static/js/2.bb226c0f.chunk.js.map",
     "index.html": "/longrich/index.html",
-    "precache-manifest.ea16495083f0b074cb0f092fadbb00ea.js": "/longrich/precache-manifest.ea16495083f0b074cb0f092fadbb00ea.js",
+    "precache-manifest.1d41d599236b97d588361ae824254672.js": "/longrich/precache-manifest.1d41d599236b97d588361ae824254672.js",
     "service-worker.js": "/longrich/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/longrich/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.bb226c0f.chunk.js.LICENSE.txt": "/longrich/static/js/2.bb226c0f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.10c98aeb.js",
     "static/js/2.bb226c0f.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.571a42f4.chunk.js"
+    "static/js/main.c11a6ec8.chunk.js"
   ]
 }
